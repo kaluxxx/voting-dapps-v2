@@ -55,7 +55,6 @@ Un contrat ERC721 représentant la participation au vote.
    ```env
    SEPOLIA_RPC_URL=https://eth-sepolia.g.alchemy.com/v2/VOTRE-CLE
    PRIVATE_KEY=votre_clé_privée
-   ETHERSCAN_API_KEY=votre_clé_etherscan
    ```
 
 ## Utilisation
